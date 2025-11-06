@@ -1,8 +1,8 @@
 {
-  "version": "2.0.3",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.0.3/Universe.exe",
-  "release_notes": "🎉 Versión 2.0.3\n\n✨ Nuevas características:\n- Sistema de auto-actualización OTA\n- Actualizaciones automáticas de .exe\n- Interfaz web mejorada\n\n🐛 Correcciones:\n- Mejoras de estabilidad\n- Optimización de rendimiento\n\n📝 Notas:\n- Esta actualización se instalará automáticamente\n- El programa se reiniciará después de actualizar",
-  "published_at": "2025-11-06T16:07:42.394189",
+  "version": "2.0.2",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.0.2/Universe.exe",
+  "release_notes": "🎉 Versión 2.0.2\n\n✨ Nuevas características:\n- Sistema de auto-actualización OTA\n- Actualizaciones automáticas de .exe\n- Interfaz web mejorada\n\n🐛 Correcciones:\n- Mejoras de estabilidad\n- Optimización de rendimiento\n\n📝 Notas:\n- Esta actualización se instalará automáticamente\n- El programa se reiniciará después de actualizar",
+  "published_at": "2025-11-06T16:17:32.550125",
   "required": false,
   "exe_only": true
 }
