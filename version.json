@@ -1,8 +1,8 @@
 {
-  "version": "2.0.7",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.0.7/Universe.exe",
-  "release_notes": "🎉 Versión 2.0.7 - TEST\n\n🧪 Versión de prueba para testear actualización automática\n\n✅ Cambios visibles:\n- Versión actualizada a 2.0.7 en Configuración General\n\n🔧 Sistema de actualización:\n- Cierre automático del proceso\n- Reemplazo del .exe\n- Reinicio automático\n\n📝 Cómo verificar que funcionó:\n1. Después de actualizar, ve a Configuración → General\n2. Verifica que diga 'Versión: 2.0.7'\n3. Si ves 2.0.7, la actualización funcionó correctamente",
-  "published_at": "2025-11-07T08:37:16.000000",
+  "version": "2.0.8",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.0.8/Universe.exe",
+  "release_notes": "🎉 Versión 2.0.8\n\n✨ Nuevas funciones:\n- ...\n- ...\n\n🐛 Correcciones:\n- ...",
+  "published_at": "2025-11-07T14:30:00.000000",
   "required": false,
   "exe_only": true
 }
