@@ -1,8 +1,8 @@
 {
-  "version": "2.0.5",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.0.5/Universe.exe",
-  "release_notes": "🎉 Versión 2.0.5\n\n✨ Nuevas características:\n- Navegador se abre automáticamente al ejecutar\n- Botón 'Cerrar Bot' para detener todos los procesos\n- Sistema de auto-actualización OTA completo\n- Tab de Sugerencias en configuración\n- Interfaz web mejorada con mejor UX\n\n⚙️ Pre-configuraciones por defecto:\n- Proxies: Webshare activado por defecto\n- API 2Captcha: Pre-configurada\n- Cuentas en paralelo: 5 (optimizado)\n- Reacciones por feed: 1 (seguro)\n- Auto-login: Activado para usuarios locales\n\n🐛 Correcciones:\n- Error WinError 10038 resuelto (debug mode desactivado)\n- Versiones inconsistentes en .exe corregidas\n- Mejoras de estabilidad general\n- Optimización de rendimiento\n\n📝 Notas importantes:\n- Esta actualización se instalará automáticamente\n- El programa se reiniciará después de actualizar\n- Todas las configuraciones se mantienen intactas",
-  "published_at": "2025-11-07T08:21:30.964411",
+  "version": "2.0.6",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.0.6/Universe.exe",
+  "release_notes": "🎉 Versión 2.0.6\n\n🔧 Correcciones críticas:\n- Sistema de actualización OTA ahora cierra y reinicia automáticamente\n- Proceso de actualización completamente funcional\n- Interfaz mejorada durante la actualización\n\n✨ Características:\n- Navegador se abre automáticamente al ejecutar\n- Botón 'Cerrar Bot' para detener todos los procesos\n- Sistema de auto-actualización OTA completo\n- Tab de Sugerencias en configuración\n\n⚙️ Pre-configuraciones por defecto:\n- Proxies: Webshare activado\n- API 2Captcha: Pre-configurada\n- Cuentas en paralelo: 5\n- Reacciones por feed: 1\n- Auto-login: Activado\n\n📝 Notas importantes:\n- Esta actualización se instalará automáticamente\n- El programa se cerrará y reiniciará automáticamente\n- Todas las configuraciones se mantienen intactas",
+  "published_at": "2025-11-07T08:29:29.000000",
   "required": false,
   "exe_only": true
 }
