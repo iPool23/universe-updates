@@ -1,8 +1,8 @@
 {
-  "version": "2.0.9",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.0.9/Universe.exe",
-  "release_notes": "🎉 Versión 2.0.9 - PRUEBA DE ACTUALIZACIÓN\n\n✨ Novedades:\n- Sistema de renombrado automático a 'Universe v2.0.9.exe'\n- Actualización OTA completamente funcional\n- Backup automático antes de actualizar\n\n🔧 Mejoras:\n- Proceso de actualización optimizado\n- Reinicio automático mejorado\n- Mejor gestión de versiones\n\n� Cómo verificar que funcionó:\n1. El archivo ahora se llama 'Universe v2.0.9.exe'\n2. En Configuración → General dice 'Versión: 2.0.9'\n3. Se creó un backup en la carpeta backups/",
-  "published_at": "2025-11-07T15:30:00.000000",
+  "version": "2.0.10",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.0.10/Universe.exe",
+  "release_notes": "🎉 Versión 2.0.10\n\n🐛 Correcciones:\n- Fix en pre-login de Facebook: ahora procesa todas las cuentas sin cookies\n- Fix en pre-login de Instagram: ahora procesa todas las cuentas sin cookies\n\n✨ Mejoras:\n- Pre-login ahora muestra progreso ([1/3], [2/3], etc.)\n- Pausa de 3 segundos entre cuentas para evitar bloqueos\n- Si una cuenta falla, continúa con la siguiente automáticamente\n- Logs más detallados durante el proceso de pre-login",
+  "published_at": "2025-11-07T16:00:00.000000",
   "required": false,
   "exe_only": true
 }
