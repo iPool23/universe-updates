@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.1.0/Universe.exe",
-  "release_notes": "🎉 Versión 2.1.0\n\n🚀 Nuevas Funcionalidades:\n- Sistema de actualización automática al cargar el dashboard\n- Ya no necesitas verificar actualizaciones manualmente\n- El sistema descarga e instala actualizaciones automáticamente\n\n🐛 Correcciones:\n- Fix en endpoints de Instagram: ahora los posts se muestran correctamente\n- Fix en la carga de contenido después de agregar posts/reels\n- Mejora en la sincronización de datos entre frontend y backend\n\n✨ Mejoras:\n- Interfaz de Settings simplificada\n- Solo muestra la versión actual del sistema\n- Notificaciones mejoradas durante el proceso de actualización\n- Logs más detallados en el proceso de auto-actualización",
-  "published_at": "2025-11-09T14:43:53.410162",
+  "version": "2.1.1",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.1.1/Universe.exe",
+  "release_notes": "🎉 Versión 2.1.1\n\n✨ Nuevas características:\n- Sistema de auto-actualización OTA\n- Actualizaciones automáticas de .exe\n- Interfaz web mejorada\n\n🐛 Correcciones:\n- Mejoras de estabilidad\n- Optimización de rendimiento\n\n📝 Notas:\n- Esta actualización se instalará automáticamente\n- El programa se reiniciará después de actualizar",
+  "published_at": "2025-11-09T15:22:55.753220",
   "required": false,
   "exe_only": true
 }
