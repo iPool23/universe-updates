@@ -1,8 +1,8 @@
 {
-  "version": "2.2.4",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.4/Universe.exe",
-  "release_notes": "🐛 Versión 2.2.4 - Fix Reinicio Automático\n\n✅ Arreglado:\n- Script de actualización ahora usa rutas absolutas\n- Reinicia correctamente después de actualizar\n- Cambia al directorio correcto antes de reiniciar\n- Secuencia optimizada: backup → instalar → reiniciar → limpiar\n\n🔧 Mejoras técnicas:\n- cd /d para cambiar al directorio del .exe\n- Reinicio antes de limpieza de archivos temporal\n- exit en lugar de auto-borrado del script\n\n📝 Nota: Este fix asegura que la aplicación reinicie correctamente después de actualizarse.",
-  "published_at": "2025-11-24T09:55:48.519699",
+  "version": "2.2.5",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.5/Universe.exe",
+  "release_notes": "🎉 Versión 2.2.5 - Sistema Completo y Estable\n\n✨ Resumen de mejoras acumuladas:\n- ✅ Sistema de auto-actualización 100% funcional\n- ✅ Reinicio automático verificado\n- ✅ Settings modularizado y optimizado\n- ✅ Versiones dinámicas desde API\n- ✅ Script de release automatizado\n\n🔧 Todas las funcionalidades verificadas:\n- Descarga automática de actualizaciones\n- Instalación sin intervención manual\n- Reinicio correcto de la aplicación\n- Estructura modular mantenible\n\n📝 Esta versión consolida todos los fixes y mejoras del ciclo 2.2.x",
+  "published_at": "2025-11-24T10:02:45.088355",
   "required": false,
   "exe_only": true
 }
