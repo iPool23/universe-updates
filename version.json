@@ -1,8 +1,8 @@
 {
-  "version": "2.2.5",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.5/Universe.exe",
-  "release_notes": "🎉 Versión 2.2.5 - Sistema Completo y Estable\n\n✨ Resumen de mejoras acumuladas:\n- ✅ Sistema de auto-actualización 100% funcional\n- ✅ Reinicio automático verificado\n- ✅ Settings modularizado y optimizado\n- ✅ Versiones dinámicas desde API\n- ✅ Script de release automatizado\n\n🔧 Todas las funcionalidades verificadas:\n- Descarga automática de actualizaciones\n- Instalación sin intervención manual\n- Reinicio correcto de la aplicación\n- Estructura modular mantenible\n\n📝 Esta versión consolida todos los fixes y mejoras del ciclo 2.2.x",
-  "published_at": "2025-11-24T10:02:45.088355",
+  "version": "2.2.6",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.6/Universe.exe",
+  "release_notes": "🎉 Versión 2.2.6 - Nuevo Actualizador Visual\n\n✨ Características:\n- ✅ Nueva ventana de consola para el proceso de actualización\n- ✅ Barra de progreso visual durante la verificación\n- ✅ Mensajes de estado claros (Esperando cierre, Instalando, Limpiando)\n- ✅ Reinicio automático mejorado\n\n🔧 Cambios técnicos:\n- Implementado modo `--update-mode` en el ejecutable\n- Eliminada dependencia de scripts .bat temporales\n- Proceso de actualización más robusto y transparente\n\n📝 Ahora verás una ventana negra con el progreso de la actualización!",
+  "published_at": "2025-11-24T10:12:47.758810",
   "required": false,
   "exe_only": true
 }
