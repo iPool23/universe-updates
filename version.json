@@ -1,8 +1,8 @@
 {
-  "version": "2.2.2",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.2/Universe.exe",
-  "release_notes": "🐛 Versión 2.2.2 - Fix Actualización Automática\n\n✅ Arreglado:\n- Sistema de actualización ahora muestra ventana de progreso\n- Script de actualización ejecuta correctamente  \n- Cierre y reinicio automático funcionando\n\n🔧 Mejoras técnicas:\n- Removido CREATE_NO_WINDOW para asegurar ejecución del script\n- Proceso de actualización más confiable\n\n📝 Nota: Esta versión corrige el problema donde las actualizaciones \nse descargaban pero no se instalaban automáticamente.",
-  "published_at": "2025-11-24T09:25:32.634433",
+  "version": "2.2.3",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.3/Universe.exe",
+  "release_notes": "🎉 Versión 2.2.3 - Settings Modularizado + Versión Dinámica\n\n✨ Nuevas características:\n- ✅ Settings completamente modularizado (5 tabs separados)\n- ✅ Versión se carga dinámicamente desde API\n- ✅ Estructura organizada en templates/ui/settings/\n- ✅ Componentes reutilizables y mantenibles\n\n🔧 Mejoras técnicas:\n- Tabs separados: general, proxies, updates, API, suggestions\n- Scripts y estilos compartidos\n- Mismo patrón modular que Instagram/Facebook\n- Fácil mantenimiento y escalabilidad\n\n📝 Nota: Esta versión es para probar el sistema de auto-actualización.",
+  "published_at": "2025-11-24T09:48:43.875241",
   "required": false,
   "exe_only": true
 }
