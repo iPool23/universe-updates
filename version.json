@@ -2,7 +2,7 @@
   "version": "2.2.7",
   "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.7/Universe.exe",
   "release_notes": "🎉 Versión 2.2.7 - Verificación Final de Actualizador Visual\n\n✨ Objetivo:\n- Validar el funcionamiento de la nueva ventana de actualización\n- Confirmar que la barra de progreso se muestra correctamente\n- Verificar el reinicio automático tras la instalación visual\n\n🔧 Mejoras incluidas:\n- Todo el sistema de actualización visual activado\n- Logs detallados en la consola de actualización\n- Proceso de swap de archivos optimizado\n\n📝 Esta actualización probará que ves la ventana negra con el progreso!",
-  "published_at": "2025-11-24T10:15:12.735060",
+  "published_at": "2025-11-24T16:00:10.348759",
   "required": false,
   "exe_only": true
 }
