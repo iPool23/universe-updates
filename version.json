@@ -1,8 +1,8 @@
 {
-  "version": "2.2.7",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.7/Universe.exe",
-  "release_notes": "🎉 Versión 2.2.7 - Verificación Final de Actualizador Visual\n\n✨ Objetivo:\n- Validar el funcionamiento de la nueva ventana de actualización\n- Confirmar que la barra de progreso se muestra correctamente\n- Verificar el reinicio automático tras la instalación visual\n\n🔧 Mejoras incluidas:\n- Todo el sistema de actualización visual activado\n- Logs detallados en la consola de actualización\n- Proceso de swap de archivos optimizado\n\n📝 Esta actualización probará que ves la ventana negra con el progreso!",
-  "published_at": "2025-11-24T16:00:10.348759",
+  "version": "2.2.8",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.8/Universe.exe",
+  "release_notes": "🎉 Versión 2.2.8 - Corrección de Rutas API Instagram\n\n🐛 Correcciones:\n- Arreglado error al agregar Reels de Instagram\n- Corregidas rutas de API para posts y reels de Instagram\n- Agregada ruta faltante para actualizar contenido\n\n🔧 Cambios técnicos:\n- Frontend ahora usa /api/add-content/instagram/{type}\n- Agregada función update_content en el backend\n- Sincronización correcta entre frontend y backend\n\n✅ Ahora puedes agregar, editar y eliminar reels de Instagram sin errores!",
+  "published_at": "2025-11-24T16:08:03.068752",
   "required": false,
   "exe_only": true
 }
