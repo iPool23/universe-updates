@@ -2,7 +2,7 @@
   "version": "2.2.8",
   "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.8/Universe.exe",
   "release_notes": "🎉 Versión 2.2.8 - Corrección de Rutas API Instagram\n\n🐛 Correcciones:\n- Arreglado error al agregar Reels de Instagram\n- Corregidas rutas de API para posts y reels de Instagram\n- Agregada ruta faltante para actualizar contenido\n\n🔧 Cambios técnicos:\n- Frontend ahora usa /api/add-content/instagram/{type}\n- Agregada función update_content en el backend\n- Sincronización correcta entre frontend y backend\n\n✅ Ahora puedes agregar, editar y eliminar reels de Instagram sin errores!",
-  "published_at": "2025-11-24T16:08:03.068752",
+  "published_at": "2025-11-24T16:11:40.374566",
   "required": false,
   "exe_only": true
 }
