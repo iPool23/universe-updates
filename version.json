@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.0/Universe.exe",
-  "release_notes": "🎉 Versión 2.2.0 - INSTAGRAM UI COMPLETO + MEJORAS GLOBALES\n\n🆕 INSTAGRAM - UI MODULAR COMPLETO:\n✅ Interfaz modularizada igual que Facebook\n- Componentes separados: accounts, posts, reels, stories, follow\n- Diseño con gradiente Instagram (rosa/morado)\n- Sistema de proxies automático con badges visuales\n- Separación de cuentas activas/inactivas\n- Contador de items en badges de pestañas\n\n🌐 SISTEMA DE PROXIES AUTOMÁTICO (Instagram):\n✅ Asignación inteligente de proxies\n- Auto-asignación del proxy con menos carga\n- Muestra \"Proxy #X\" en cada cuenta\n- Distribución balanceada entre 12 proxies\n\n🔧 SINCRONIZACIÓN GLOBAL DE BOTS:\n✅ Estado global sincronizado entre todas las páginas\n- Polling cada 3 segundos en todas las vistas\n- Botones Iniciar/Detener Bot sincronizados globalmente\n- Dashboard + manage pages comparten el mismo estado\n\n📊 TRACKING DE COMENTARIOS (Instagram):\n✅ Sistema idéntico a Facebook\n- Archivos MD5-hasheados por post/reel\n- Tracking en data/comentarios_tracking/\n- Previene comentarios duplicados por usuario\n\n🐛 CORRECCIONES TÉCNICAS:\n- Corregidos imports: src.core.paths en toda la app\n- Manejo robusto de JSON vacío/corrupto\n- API devuelve 'items' para contenido, 'cuentas' para accounts\n\n🎨 DISEÑO MEJORADO:\n- Cards de cuentas con avatar inicial\n- Badges de estado y proxy asignado\n- Botones con íconos y texto\n- Empty states informativos",
-  "published_at": "2025-11-24T08:48:51.183855",
+  "version": "2.2.1",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.2.1/Universe.exe",
+  "release_notes": "🎉 Versión 2.2.1 - Mejoras de Desarrollo\n\n🔧 Cambios:\n- ✅ Debug mode activado para desarrollo\n- ✅ Mensajes de error más detallados\n- ✅ Mejor experiencia de debugging\n\n📝 Nota: Esta es una actualización de prueba para verificar el sistema de auto-actualización.",
+  "published_at": "2025-11-24T08:58:47.576698",
   "required": false,
   "exe_only": true
 }
