@@ -1,8 +1,8 @@
 {
-  "version": "2.3.2",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.3.2/Universe.exe",
-  "release_notes": "🎉 Versión 2.3.2 - Corrección Crítica: Mezcla de Cuentas en Modo Paralelo\n\n🐛 Corrección Crítica:\n- Corregido problema grave donde las cuentas se mezclaban en modo paralelo\n- Las cookies y localStorage ahora se limpian completamente antes de cargar nuevas sesiones\n- Verificación de cuenta correcta después de cargar cookies\n- Limpieza automática si se detecta sesión de cuenta incorrecta\n\n🔒 Mejoras de Seguridad (Instagram y Facebook):\n- Limpieza de cookies antes de cargar sesión nueva\n- Limpieza de localStorage antes de cargar datos nuevos\n- Verificación de username/email después de restaurar sesión\n- Prevención de comentarios cruzados entre cuentas\n\n✅ Comportamiento Corregido:\n- Cada cuenta ahora comenta solo en sus posts asignados\n- No más comentarios duplicados de otras cuentas del lote anterior\n- Sesiones completamente aisladas entre procesos paralelos\n- Logs más claros sobre qué cuenta está activa\n\n🚀 Estabilidad:\n- Modo paralelo ahora funciona correctamente sin mezcla de sesiones\n- Mejor manejo de cookies en multiproceso\n- Verificación robusta de identidad de cuenta\n\n⚠️ Actualización CRÍTICA:\nEsta versión corrige un error grave que causaba que las cuentas comentaran con la identidad de otras cuentas en modo paralelo. Actualización altamente recomendada.",
-  "published_at": "2025-11-25T14:39:38.210550",
+  "version": "2.3.3",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.3.3/Universe.exe",
+  "release_notes": "🎉 Versión 2.3.3 - Corrección Urgente: Error de Sintaxis\n\n🐛 Corrección Crítica:\n- Corregido error de sintaxis en ejecutar_cuenta_facebook.py que impedía compilar el ejecutable\n- Eliminado bloque else duplicado que causaba SyntaxError\n- El ejecutable ahora se compila correctamente\n\n✅ Incluye todas las mejoras de 2.3.2:\n- Limpieza de cookies y localStorage antes de cargar nuevas sesiones\n- Verificación de cuenta correcta después de cargar cookies\n- Prevención de mezcla de cuentas en modo paralelo\n- Sesiones completamente aisladas entre procesos\n\n⚠️ Actualización URGENTE:\nLa versión 2.3.2 no se podía compilar debido a un error de sintaxis. Esta versión corrige ese problema crítico.",
+  "published_at": "2025-11-25T14:50:03.047739",
   "required": false,
   "exe_only": true
 }
