@@ -1,8 +1,8 @@
 {
-  "version": "2.3.8",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.3.8/Universe.exe",
-  "release_notes": "Version 2.3.8 - Estabilidad y Mejoras de Cuentas\n\nCorrecciones de Interfaz:\n- Solucionado bug del boton Ver Contraseña que no funcionaba con caracteres especiales\n- Contraseñas ahora se almacenan de forma segura en memoria (no en el DOM)\n- Corregido boton Editar cuenta para cuentas con contraseñas especiales\n- Aplicado fix a Instagram y Facebook\n\nDesactivacion Automatica de Cuentas:\n- Las cuentas que fallen en el login automatico se desactivan automaticamente\n- Evita que cuentas sin cookies validas causen problemas en ejecuciones futuras\n- Mensaje claro en logs indicando la desactivacion\n- Aplica a Instagram y Facebook\n\nMejoras de Logs:\n- Silenciados logs de Flask/Werkzeug en modo desarrollo\n- Solo se muestran logs importantes del bot\n- Logs de procesos paralelos mas claros y organizados\n- Eliminada duplicacion de mensajes de inicio\n\nMejoras Tecnicas:\n- Funciones de escape HTML para evitar inyeccion de codigo\n- CSS.escape para selectores jQuery con caracteres especiales\n- Logs de procesos paralelos con prefijo [Instagram-N] mas claro",
-  "published_at": "2025-12-03T16:32:10.034620",
+  "version": "2.3.9",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.3.9/Universe.exe",
+  "release_notes": "Version 2.3.9 - Mejoras de Pre-Login\n\nMejoras de Pre-Login Facebook:\n- Aumentado tiempo de validacion manual a 2 minutos (antes 1 minuto)\n- Mas tiempo para completar verificaciones de cuenta (2FA, captchas, etc.)\n- Mejora la tasa de exito en cuentas con verificacion adicional\n\nCorrecciones Menores:\n- Estabilidad general del sistema",
+  "published_at": "2025-12-04T16:58:31.244653",
   "required": false,
   "exe_only": true
 }
