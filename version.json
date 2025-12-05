@@ -1,8 +1,8 @@
 {
-  "version": "2.4.0",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.0/Universe.exe",
-  "release_notes": "Version 2.4.0 - Mejoras de Ejecucion Paralela\n\nInstagram Bot:\n- Corregido problema de navegadores en blanco en ejecucion paralela\n- Agregados hidden imports faltantes para multiprocessing en EXE\n- Mejora estabilidad de procesos paralelos\n\nConfiguracion EXE:\n- Auto-creacion de bot_config.json al primer inicio del EXE\n- Ya no es necesario guardar configuracion manualmente antes de usar\n\nCorrecciones Menores:\n- Estabilidad general del sistema",
-  "published_at": "2025-12-05T10:48:04.020708",
+  "version": "2.4.1",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.1/Universe.exe",
+  "release_notes": "Version 2.4.1 - Mejoras de Inicializacion\n\nConfiguracion EXE:\n- Auto-creacion de archivos de cuentas vacios para todas las redes sociales\n- Ya no aparecen warnings de archivos faltantes al primer inicio\n- Carpeta data/ se crea automaticamente con todos los archivos necesarios\n\nCorrecciones:\n- Agregado modulo jaraco.text para compatibilidad con pkg_resources\n- Agregado modulo unittest requerido por SeleniumBase\n- Estabilidad general del sistema",
+  "published_at": "2025-12-05T11:03:20.046977",
   "required": false,
   "exe_only": true
 }
