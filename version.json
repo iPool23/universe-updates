@@ -1,8 +1,8 @@
 {
-  "version": "2.4.1",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.1/Universe.exe",
-  "release_notes": "Version 2.4.1 - Mejoras de Inicializacion\n\nConfiguracion EXE:\n- Auto-creacion de archivos de cuentas vacios para todas las redes sociales\n- Ya no aparecen warnings de archivos faltantes al primer inicio\n- Carpeta data/ se crea automaticamente con todos los archivos necesarios\n\nCorrecciones:\n- Agregado modulo jaraco.text para compatibilidad con pkg_resources\n- Agregado modulo unittest requerido por SeleniumBase\n- Estabilidad general del sistema",
-  "published_at": "2025-12-05T11:03:20.046977",
+  "version": "2.4.2",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.2/Universe.exe",
+  "release_notes": "Version 2.4.2 - Arreglo de comentarios de pop up",
+  "published_at": "2025-12-10T09:50:55.711907",
   "required": false,
   "exe_only": true
 }
