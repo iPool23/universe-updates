@@ -1,8 +1,8 @@
 {
-  "version": "2.4.4",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.4/Universe.exe",
-  "release_notes": "Version 2.4.4 - Actualización Crítica de Estabilidad\n- Corrección crítica del auto-actualizador\n- Solución a error de extensiones faltantes en proxy\n- Restauración correcta de copias de seguridad\n- Estabilidad mejorada en arranque\n- Diseños corregidos",
-  "published_at": "2025-12-11T12:44:05.729341",
+  "version": "2.4.5",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.5/Universe.exe",
+  "release_notes": "Version 2.4.5 - Mejoras en Experiencia de Actualización\n- Nuevo flujo de actualización visual: La ventana de actualización se abre ANTES de descargar\n- Barra de progreso visual para la descarga de actualizaciones\n- Manejo mejorado de errores de conexión\n- Corrección visual para evitar \"fallos silenciosos\" durante la descarga",
+  "published_at": "2025-12-11T13:01:23.968682",
   "required": false,
   "exe_only": true
 }
