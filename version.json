@@ -1,8 +1,8 @@
 {
-  "version": "2.4.2",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.2/Universe.exe",
-  "release_notes": "Version 2.4.2 - Arreglo de comentarios de pop up",
-  "published_at": "2025-12-10T09:50:55.711907",
+  "version": "2.4.3",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.3/Universe.exe",
+  "release_notes": "Version 2.4.3 - Mejoras en Pre-Login de Facebook\n- Pre-login interactivo: botones Guardar Cookies, Saltar y Cancelar\n- Anti-detección mejorada para Facebook\n- Soporte de proxies residenciales\n- Corrección de estilos de Instagram\n- Estandarización de rutas de configuración",
+  "published_at": "2025-12-11T09:05:28.104968",
   "required": false,
   "exe_only": true
 }
