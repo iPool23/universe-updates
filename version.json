@@ -1,8 +1,8 @@
 {
-  "version": "2.4.7",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.7/Universe.exe",
-  "release_notes": "Version 2.4.7 - Spec\n\n🔧 Sistema:\n- Actualización del sistema automatico",
-  "published_at": "2025-12-12T10:12:00.961633",
+  "version": "2.4.8",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.8/Universe.exe",
+  "release_notes": "🔧 Sistema:\n- Actualización del sistema automatico",
+  "published_at": "2025-12-12T10:47:08.572280",
   "required": false,
   "exe_only": true
 }
