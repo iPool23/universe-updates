@@ -1,8 +1,8 @@
 {
-  "version": "2.4.6",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.6/Universe.exe",
-  "release_notes": "Version 2.4.6 - Mejoras Completas de Anti-Detección y Estabilidad Multi-Plataforma\n\n🛡️ Anti-Detección y Seguridad:\n- Mayor evasión\n- Implementados métodos de sigilo alternativos\n- Mejorado contra interrogación activa\n- Optimizada la aleatorización conductual con distribuciones no uniformes\n\n🐦 Twitter:\n- Corregido error 400\n- Implementado guardado de LocalStorage/SessionStorage\n- Solucionado congelamiento de UI en Pre-Login\n- Implementado avance automático para bucle de Pre-Login\n- Eliminada navegación automática en Pre-Login\n\n🎵 TikTok:\n- Corregido problema de \"3 navegadores\" (reutilización de pestañas)\n- Mejorada restauración de sesión con navegación segura\n- Eliminado fallback de inicio de sesión manual\n- Implementada lógica de \"salto\" para sesiones inválidas\n\n▶️ YouTube:\n- Migrado inicio de sesión a SeleniumBase\n\n📸 Instagram:\n- Corregido problema de sincronización del botón \"Detener Bot\" al refrescar UI\n\n👥 Facebook:\n- Corregido bot que continuaba ejecutando lotes después del comando \"Detener\"\n- Aplicada corrección de sincronización del botón \"Detener Bot\"\n\n🖥️ Interfaz de Usuario:\n- Migración de actualizaciones de UI\n- Aplicada corrección de sincronización \"Detener Bot\" a Twitter y TikTok\n- Verificada y corregida lógica de persistencia \"Detener Bot\" en todas las plataformas\n\n🔧 Sistema:\n- Refactorizado\n- Verificado formato de registro en ejecución",
-  "published_at": "2025-12-12T09:47:33.763796",
+  "version": "2.4.7",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.7/Universe.exe",
+  "release_notes": "Version 2.4.7 - Spec\n\n🔧 Sistema:\n- Actualización del sistema automatico",
+  "published_at": "2025-12-12T10:12:00.961633",
   "required": false,
   "exe_only": true
 }
