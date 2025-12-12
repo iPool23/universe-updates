@@ -1,8 +1,8 @@
 {
-  "version": "2.4.8",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.8/Universe.exe",
-  "release_notes": "🔧 Sistema:\n- Actualización del sistema automatico",
-  "published_at": "2025-12-12T10:47:08.572280",
+  "version": "2.4.9",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.9/Universe.exe",
+  "release_notes": "Version 2.4.9 - UI & Stability Fixes\n\n🎨 Interfaz de Usuario (UI):\n- Solucionado: Botón \"Guardando...\" ya no se queda pegado en Facebook e Instagram\n- Mejora: Lógica de reseteo de botones más robusta en Pre-Login\n- UX: Feedback visual más preciso al guardar cookies\n\n🔧 Estabilidad:\n- Verificación cruzada de lógica de guardado en todas las plataformas\n- TikTok: Confirmado funcionamiento automático (SeleniumBase)\n- YouTube: Flujo simplificado validado\n\n✨ Otros:\n- Preparación para futuras mejoras en gestión de sesiones",
+  "published_at": "2025-12-12T11:03:17.385621",
   "required": false,
   "exe_only": true
 }
