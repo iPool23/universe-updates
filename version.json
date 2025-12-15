@@ -1,8 +1,8 @@
 {
-  "version": "2.4.9",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.4.9/Universe.exe",
-  "release_notes": "Version 2.4.9 - UI & Stability Fixes\n\n🎨 Interfaz de Usuario (UI):\n- Solucionado: Botón \"Guardando...\" ya no se queda pegado en Facebook e Instagram\n- Mejora: Lógica de reseteo de botones más robusta en Pre-Login\n- UX: Feedback visual más preciso al guardar cookies\n\n🔧 Estabilidad:\n- Verificación cruzada de lógica de guardado en todas las plataformas\n- TikTok: Confirmado funcionamiento automático (SeleniumBase)\n- YouTube: Flujo simplificado validado\n\n✨ Otros:\n- Preparación para futuras mejoras en gestión de sesiones",
-  "published_at": "2025-12-12T11:03:17.385621",
+  "version": "2.5.0",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.0/Universe.exe",
+  "release_notes": "Version 2.5.0 - Instagram, Facebook Parallel Fix & Cookie Isolation\n\n🐛 Correcciones Críticas:\n- Solucionado: Problema de cookies duplicadas en Instagram paralelo\n- Fix: Cuentas diferentes ya no comparten sesión\n- Fix: Cada cuenta usa su propio perfil de Chrome aislado\n\n📸 Instagram:\n- Mejorado: Logging de perfil para debugging\n- Mejorado: Logging de delays en ejecución paralela\n- Fix: Soporte dual para textarea y contenteditable en comentarios\n- Fix: Emojis compatibles en comentarios modo basico\n\nf Facebook:\n- Mejorado: Emojis compatibles en comentarios modo pro\n\n🔧 Debugging:\n- Nuevo: Logs detallados de user_data_dir por cuenta\n- Nuevo: Advertencias si perfil no está configurado\n- Nuevo: Timing de delays visibles en ejecución paralela\n\n⚠️ Importante:\n- Si experimentaste cuentas comentando como el mismo usuario, elimina las \n  cookies duplicadas en cookies/instagram/ y perfiles en profiles/instagram/",
+  "published_at": "2025-12-15T15:07:27.011826",
   "required": false,
   "exe_only": true
 }
