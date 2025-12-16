@@ -1,8 +1,8 @@
 {
-  "version": "2.5.1",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.1/Universe.exe",
-  "release_notes": "Version 2.5.1 - Twitter Full Support, Design Overhaul & Bug Fixes\n\n� Twitter (X):\n- Nuevo: Integración completa de Twitter para uso automatizado\n- Nuevo: Soporte total para acciones y navegación\n\n✨ Diseño y Experiencia:\n- Nuevo: Diseño renovado con animaciones fluidas\n- Mejorado: Interfaz de usuario más intuitiva y moderna\n\n� Correcciones:\n- Fix: Corrección de múltiples bugs básicos y mejoras de estabilidad\n- Fix: Optimización general del rendimiento\n\n⚠️ Importante:\n- Esta actualización trae grandes cambios visuales y funcionales.",
-  "published_at": "2025-12-16T08:27:36.783218",
+  "version": "2.5.2",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.2/Universe.exe",
+  "release_notes": "Version 2.5.2 - Critical Hotfix: API Domain Update\n\n🔥 Corrección Crítica:\n- Fix: Actualización del dominio de la API a www.app.pe\n- Fix: Resolución de problemas de conexión y errores JSON en login\n\n⚠️ IMPORTANTE:\nEsta actualización es necesaria para recuperar el acceso a la sesión y validar licencias correctamente.",
+  "published_at": "2025-12-16T08:42:23.374448",
   "required": false,
   "exe_only": true
 }
