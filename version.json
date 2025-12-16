@@ -1,8 +1,8 @@
 {
-  "version": "2.5.0",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.0/Universe.exe",
-  "release_notes": "Version 2.5.0 - Instagram, Facebook Parallel Fix & Cookie Isolation\n\n🐛 Correcciones Críticas:\n- Solucionado: Problema de cookies duplicadas en Instagram paralelo\n- Fix: Cuentas diferentes ya no comparten sesión\n- Fix: Cada cuenta usa su propio perfil de Chrome aislado\n\n📸 Instagram:\n- Mejorado: Logging de perfil para debugging\n- Mejorado: Logging de delays en ejecución paralela\n- Fix: Soporte dual para textarea y contenteditable en comentarios\n- Fix: Emojis compatibles en comentarios modo basico\n\nf Facebook:\n- Mejorado: Emojis compatibles en comentarios modo pro\n\n🔧 Debugging:\n- Nuevo: Logs detallados de user_data_dir por cuenta\n- Nuevo: Advertencias si perfil no está configurado\n- Nuevo: Timing de delays visibles en ejecución paralela\n\n⚠️ Importante:\n- Si experimentaste cuentas comentando como el mismo usuario, elimina las \n  cookies duplicadas en cookies/instagram/ y perfiles en profiles/instagram/",
-  "published_at": "2025-12-15T15:07:27.011826",
+  "version": "2.5.1",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.1/Universe.exe",
+  "release_notes": "Version 2.5.1 - Twitter Full Support, Design Overhaul & Bug Fixes\n\n� Twitter (X):\n- Nuevo: Integración completa de Twitter para uso automatizado\n- Nuevo: Soporte total para acciones y navegación\n\n✨ Diseño y Experiencia:\n- Nuevo: Diseño renovado con animaciones fluidas\n- Mejorado: Interfaz de usuario más intuitiva y moderna\n\n� Correcciones:\n- Fix: Corrección de múltiples bugs básicos y mejoras de estabilidad\n- Fix: Optimización general del rendimiento\n\n⚠️ Importante:\n- Esta actualización trae grandes cambios visuales y funcionales.",
+  "published_at": "2025-12-16T08:27:36.783218",
   "required": false,
   "exe_only": true
 }
