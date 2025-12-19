@@ -1,8 +1,8 @@
 {
-  "version": "2.5.3",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.3/Universe.exe",
-  "release_notes": "Version 2.5.3 - Webshare Rotating Soport & Facebook Fixes\n\n🚀 Mejoras de Proxies:\n- Feature: Soporte nativo de Proxys\n\n🔧 Correcciones de Facebook:\n- Fix: Solucionado error de persistencia al editar posts (reacciones se perdían)\n- Fix: Mejora en selector de reacciones específicas (Love, Haha, etc) en popups\n- Fix: Unificación de modales de edición para evitar conflictos visuales\n\n⚠️ NOTA:\nSi usas Webshare, actualiza tu configuración en api_config.json con las nuevas credenciales.",
-  "published_at": "2025-12-19T10:55:50.920964",
+  "version": "2.5.4",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.4/Universe.exe",
+  "release_notes": "Version 2.5.4 - Webshare Rotating Soport & Facebook Fixes\n\n🚀 Mejoras de Proxies:\n- Feature: Soporte nativo de Proxys\n\n🔧 Correcciones de Facebook:\n- Fix: Solucionado error de persistencia al editar posts (reacciones se perdían)\n- Fix: Mejora en selector de reacciones específicas (Love, Haha, etc) en popups\n- Fix: Unificación de modales de edición para evitar conflictos visuales\n\n⚠️ NOTA:\nSi usas Webshare, actualiza tu configuración en api_config.json con las nuevas credenciales.",
+  "published_at": "2025-12-19T11:19:26.803593",
   "required": false,
   "exe_only": true
 }
