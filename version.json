@@ -1,8 +1,8 @@
 {
-  "version": "2.5.5",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.5/Universe.exe",
-  "release_notes": "Version 2.5.5 - Pre-login Fixes & Stubborn State Reset\n\n🚀 Mejoras y Arreglos:\n- Fix: Solucionado el estado \"Guardando...\" infinito en Pre-login (Facebook/Instagram).\n- Fix: Limpieza robusta de procesos zombies en pre-login.\n- Feature: Agregado mecanismo de \"Force Reset\" para estados trabados.\n- Improvement: Mejor manejo de memoria en sesiones interactivas.",
-  "published_at": "2025-12-19T14:19:57.904940",
+  "version": "2.5.6",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.6/Universe.exe",
+  "release_notes": "Version 2.5.6 - Critical Facebook Logic Fixes\n\n🚀 Mejoras Críticas:\n- Fix: Solucionado el bug donde el bot respondía comentarios en lugar de publicarlos (no más \"Reply\").\n- Fix: Resuelto el \"mixing\" de cuentas donde una cuenta consumía los comentarios de las demás.\n- Fix: Filtro robusto de cuentas duplicadas en configuración para evitar multi-procesos.\n- Fix: Normalización de URLs (m.facebook, web.facebook) para evitar multi-comentarios en el mismo post.\n- Improvement: Mejor manejo de tiempos y selectores en Reels e historias.",
+  "published_at": "2025-12-22T09:22:47.953284",
   "required": false,
   "exe_only": true
 }
