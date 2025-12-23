@@ -1,8 +1,8 @@
 {
-  "version": "2.5.7",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.7/Universe.exe",
-  "release_notes": "Version 2.5.7 - Fix: No More Duplicate Comments!\n\n🚀 Mejoras Críticas:\n- Fix: Solucionado el problema donde los bots repetían comentarios en ejecución paralela (File Locking robusto).\n- Fix: Solucionado el bug donde el bot respondía comentarios en lugar de publicarlos (no más \"Reply\").\n- Fix: Resuelto el \"mixing\" de cuentas donde una cuenta consumía los comentarios de las demás.\n- Fix: Filtro robusto de cuentas duplicadas en configuración para evitar multi-procesos.\n- Fix: Normalización de URLs (m.facebook, web.facebook) para evitar multi-comentarios en el mismo post.\n- Improvement: Mejor manejo de tiempos y selectores en Reels e historias.",
-  "published_at": "2025-12-22T11:51:42.192637",
+  "version": "2.5.8",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.8/Universe.exe",
+  "release_notes": "Version 2.5.8 - Fix: Enhanced Facebook & Instagram Pre-Login\n🚀 Mejoras en Pre-Login:\n- Fix: Solucionado el \"bloqueo\" en el estado \"Verificando...\" durante el pre-login de Facebook e Instagram.\n- Fix: Corregido el problema visual \"undefined\" en la barra de estado del pre-login.\n- Fix: Cancelación de auto-login mejorada para evitar procesos colgados.\n- Improvement: Interfaz unificada (eliminado botón \"Saltar\", flujo simplificado automático).\n- Improvement: Reinicio automático de la UI después de guardar cookies exitosamente.\n- Improvement: Interfaz unificada (reel y post de Instagram).",
+  "published_at": "2025-12-23T16:20:47.278887",
   "required": false,
   "exe_only": true
 }
