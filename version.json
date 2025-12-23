@@ -1,8 +1,8 @@
 {
-  "version": "2.5.9",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.9/Universe.exe",
-  "release_notes": "Version 2.5.9 - Fix: Enhanced Pre-Login & UI\n🚀 Mejoras en Pre-Login:\n- Fix: Icono personalizado ahora visible también en la ventana de consola.",
-  "published_at": "2025-12-23T16:40:52.879118",
+  "version": "2.6.0",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.0/Universe.exe",
+  "release_notes": "Version 2.6.0 - Major Update: Optimized Pre-Login & UI\n🚀 Mejoras Mayores en Pre-Login:\n- New: Lógica de procesos optimizada (Pre-Login ya no cierra otros navegadores activos).\n- Fix: Solucionado el \"bloqueo\" en el estado \"Verificando...\" durante el pre-login.\n- Fix: Corregido el problema visual \"undefined\" en la barra de estado.\n- Fix: Cancelación de auto-login mejorada.\n- Fix: Icono personalizado ahora visible en la ventana de consola.\n- Pre-login inteligente: Detecta automáticamente si todas las cuentas tienen cookies.\n- Improvement: Interfaz unificada y reinicio automático de UI tras guardado.",
+  "published_at": "2025-12-23T16:47:11.504866",
   "required": false,
   "exe_only": true
 }
