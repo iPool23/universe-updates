@@ -1,8 +1,8 @@
 {
-  "version": "2.5.8",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.8/Universe.exe",
-  "release_notes": "Version 2.5.8 - Fix: Enhanced Facebook & Instagram Pre-Login\n🚀 Mejoras en Pre-Login:\n- Fix: Solucionado el \"bloqueo\" en el estado \"Verificando...\" durante el pre-login de Facebook e Instagram.\n- Fix: Corregido el problema visual \"undefined\" en la barra de estado del pre-login.\n- Fix: Cancelación de auto-login mejorada para evitar procesos colgados.\n- Improvement: Interfaz unificada (eliminado botón \"Saltar\", flujo simplificado automático).\n- Improvement: Reinicio automático de la UI después de guardar cookies exitosamente.\n- Improvement: Interfaz unificada (reel y post de Instagram).",
-  "published_at": "2025-12-23T16:20:47.278887",
+  "version": "2.5.9",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.5.9/Universe.exe",
+  "release_notes": "Version 2.5.9 - Fix: Enhanced Pre-Login & UI\n🚀 Mejoras en Pre-Login:\n- Fix: Icono personalizado ahora visible también en la ventana de consola.",
+  "published_at": "2025-12-23T16:40:52.879118",
   "required": false,
   "exe_only": true
 }
