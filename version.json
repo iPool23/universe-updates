@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.0/Universe.exe",
-  "release_notes": "Version 2.6.0 - Major Update: Optimized Pre-Login & UI\n🚀 Mejoras Mayores en Pre-Login:\n- New: Lógica de procesos optimizada (Pre-Login ya no cierra otros navegadores activos).\n- Fix: Solucionado el \"bloqueo\" en el estado \"Verificando...\" durante el pre-login.\n- Fix: Corregido el problema visual \"undefined\" en la barra de estado.\n- Fix: Cancelación de auto-login mejorada.\n- Fix: Icono personalizado ahora visible en la ventana de consola.\n- Pre-login inteligente: Detecta automáticamente si todas las cuentas tienen cookies.\n- Improvement: Interfaz unificada y reinicio automático de UI tras guardado.",
-  "published_at": "2025-12-23T16:47:11.504866",
+  "version": "2.6.1",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.1/Universe.exe",
+  "release_notes": "Version 2.6.1 - Critical Fixes: Twitter Session & Instagram Stability\n🚀 Hotfix Update:\n- Fix: Solucionado el problema de cierre de sesión inmediato en Twitter (Session Expiry) unificando huellas digitales.\n- Fix: Solucionado el crash del navegador en Instagram (WinError 10061) al usar el botón \"Abrir\".\n- Fix: Correcciones menores en la detección de cookies válidas.",
+  "published_at": "2025-12-29T09:54:19.136957",
   "required": false,
   "exe_only": true
 }
