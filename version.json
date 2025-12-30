@@ -1,8 +1,8 @@
 {
-  "version": "2.6.2",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.2/Universe.exe",
-  "release_notes": "Version 2.6.2 - Facebook Live UI & Cookie Fixes\n🚀 Update:\n- Feature: Nuevo UI de Facebook Live estandarizado (Single Mode) igual a YouTube.\n- Fix: Solucionado botón \"Guardar Cookies\" bloqueado en Pre-Login (Instagram, Facebook, Twitter).\n- Improvement: Mejor manejo de streams en vivo (Auto-stop/start).",
-  "published_at": "2025-12-29T10:47:36.153063",
+  "version": "2.6.3",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.3/Universe.exe",
+  "release_notes": "Version 2.6.3 - Kick & Verification Backups\n🚀 Update:\n- Feature: Nuevo Red Social Kick soportada (Cookies, LocalStorage y Live Mode).\n- Feature: Nuevo sistema de Backups de datos de verificación en Configuración.\n- Feature: Crear cuentas (beta).\n- Fix: Correcciones menores en pre-login.",
+  "published_at": "2025-12-30T08:41:52.303514",
   "required": false,
   "exe_only": true
 }
