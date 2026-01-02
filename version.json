@@ -1,8 +1,8 @@
 {
-  "version": "2.6.3",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.3/Universe.exe",
-  "release_notes": "Version 2.6.3 - Kick & Verification Backups\n🚀 Update:\n- Feature: Nuevo Red Social Kick soportada (Cookies, LocalStorage y Live Mode).\n- Feature: Nuevo sistema de Backups de datos de verificación en Configuración.\n- Feature: Crear cuentas (beta).\n- Fix: Correcciones menores en pre-login.",
-  "published_at": "2025-12-30T08:41:52.303514",
+  "version": "2.6.4",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.4/Universe.exe",
+  "release_notes": "Version 2.6.4 - Reactivar Cuentas\n🚀 Update:\n- Feature: Botón \"Reactivar Todas\" en cuentas inactivas para Twitter, Kick, TikTok y YouTube.\n- Feature: API endpoints para reactivación masiva de cuentas.\n- Fix: Mejoras en la interfaz de gestión de cuentas.",
+  "published_at": "2026-01-02T12:13:33.451003",
   "required": false,
   "exe_only": true
 }
