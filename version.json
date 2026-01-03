@@ -1,8 +1,8 @@
 {
-  "version": "2.6.4",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.4/Universe.exe",
-  "release_notes": "Version 2.6.4 - Reactivar Cuentas\n🚀 Update:\n- Feature: Botón \"Reactivar Todas\" en cuentas inactivas para Twitter, Kick, TikTok y YouTube.\n- Feature: API endpoints para reactivación masiva de cuentas.\n- Fix: Mejoras en la interfaz de gestión de cuentas.",
-  "published_at": "2026-01-02T12:13:33.451003",
+  "version": "2.6.5",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.5/Universe.exe",
+  "release_notes": "Version 2.6.5 - Kick Bot Fixes\n🚀 Update:\n- Fix: Corregido error \"sleep length must be non-negative\" que cerraba navegadores de Kick.\n- Feature: Sistema MessagePool thread-safe para evitar mensajes repetitivos en el chat de Kick.\n- Feature: Cada cuenta usa un mensaje diferente del pool con cooldown de 60 segundos.\n- UI: Contador de mensajes en tiempo real con advertencias si hay pocos mensajes.\n- Fix: Parche de PyInstaller para jaraco.text y dependencias (fix error 'space-text').",
+  "published_at": "2026-01-02T23:50:39.898311",
   "required": false,
   "exe_only": true
 }
