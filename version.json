@@ -1,8 +1,8 @@
 {
-  "version": "2.6.6",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.6/Universe.exe",
-  "release_notes": "Version 2.6.6 - Hotfix Cryptography\n🔧 Hotfix:\n- Fix: Módulo cryptography no se incluía en el ejecutable (causaba 1 proxy en lugar de 50).\n- Fix: Incluidos binarios y submódulos de cryptography para desencriptar api_config correctamente.",
-  "published_at": "2026-01-03T00:05:19.087338",
+  "version": "2.6.7",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.7/Universe.exe",
+  "release_notes": "Version 2.6.7 - Hotfix Final\n🔧 Hotfix:\n- Fix: Módulo cryptography instalado y empaquetado correctamente (50 proxies funcionando).\n- Fix: Debug mode desactivado en producción automáticamente.\n- Fix: Bot de Kick - corregido error \"sleep length must be non-negative\".\n- Feature: Sistema MessagePool para evitar mensajes repetitivos en chat de Kick.",
+  "published_at": "2026-01-03T00:21:40.746176",
   "required": false,
   "exe_only": true
 }
