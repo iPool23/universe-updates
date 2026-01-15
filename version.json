@@ -1,8 +1,8 @@
 {
-  "version": "2.6.7",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.7/Universe.exe",
-  "release_notes": "Version 2.6.7 - Hotfix Final\n🔧 Hotfix:\n- Fix: Módulo cryptography instalado y empaquetado correctamente (50 proxies funcionando).\n- Fix: Debug mode desactivado en producción automáticamente.\n- Fix: Bot de Kick - corregido error \"sleep length must be non-negative\".\n- Feature: Sistema MessagePool para evitar mensajes repetitivos en chat de Kick.",
-  "published_at": "2026-01-03T00:21:40.746176",
+  "version": "2.6.9",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.9/Universe.exe",
+  "release_notes": "Version 2.6.9 - Splash Screen Update\n✨ New Features:\n- Splash Screen: Nuevo splash screen estilo Riot Client al iniciar la aplicación.\n- Design: Fondo transparente con logo horizontal prominente.\n- UI: Texto \"LOADING... X%\" con gradiente de colores (rosa → morado → azul).\n- Animations: Efecto fade-in/fade-out suave al aparecer y cerrar.\n- UX: Indicador de progreso visual mientras carga el servidor.",
+  "published_at": "2026-01-15T12:16:24.953402",
   "required": false,
   "exe_only": true
 }
