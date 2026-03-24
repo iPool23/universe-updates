@@ -2,7 +2,7 @@
   "version": "2.7.1",
   "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.1/Universe_Setup.exe",
   "release_notes": "Version 2.7.1 - Arquitectura de Instalación de Usuario\n✨ New Features & Fixes:\n- Instalador: Migración de la carpeta de instalación de \"Program Files\" a \"AppData/Local\" para soportar Auto-updates sin requerir permisos de Administrador.\n- Core: Resolución total del Error \"WinError 5: Acceso Denegado\" al escribir los logs y bases de datos.\n- UI: Texto \"LOADING... X%\" con gradiente de colores (rosa → morado → azul).\n- Animations: Efecto fade-in/fade-out suave al aparecer y cerrar.\n- UX: Indicador de progreso visual mientras carga el servidor.",
-  "published_at": "2026-03-24T16:32:14.266342",
+  "published_at": "2026-03-24T17:05:01.796924",
   "required": false,
   "exe_only": true
 }
