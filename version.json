@@ -1,8 +1,8 @@
 {
-  "version": "2.6.9",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.9/Universe_Setup.exe",
-  "release_notes": "Version 2.6.9 - Splash Screen Update\n✨ New Features:\n- Splash Screen: Nuevo splash screen estilo Riot Client al iniciar la aplicación.\n- Design: Fondo transparente con logo horizontal prominente.\n- UI: Texto \"LOADING... X%\" con gradiente de colores (rosa → morado → azul).\n- Animations: Efecto fade-in/fade-out suave al aparecer y cerrar.\n- UX: Indicador de progreso visual mientras carga el servidor.",
-  "published_at": "2026-03-24T15:44:40.067551",
+  "version": "2.7.0",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.0/Universe_Setup.exe",
+  "release_notes": "Version 2.7.0 - Error de Permisos y Optimización\n✨ New Features & Fixes:\n- Core: Se soluciona un error crítico (WinError 5) donde PyInstaller no tenía permisos sobre archivos temporales (_MEI).\n- Instalador: Mejora de empaquetado del Universe_Setup.exe para persistencia en directorio final.\n- UI: Texto \"LOADING... X%\" con gradiente de colores (rosa → morado → azul).\n- Animations: Efecto fade-in/fade-out suave al aparecer y cerrar.\n- UX: Indicador de progreso visual mientras carga el servidor.",
+  "published_at": "2026-03-24T16:07:03.305020",
   "required": false,
   "exe_only": true
 }
