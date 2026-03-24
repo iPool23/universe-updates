@@ -1,8 +1,8 @@
 {
   "version": "2.6.9",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.9/Universe.exe",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.6.9/Universe_Setup.exe",
   "release_notes": "Version 2.6.9 - Splash Screen Update\n✨ New Features:\n- Splash Screen: Nuevo splash screen estilo Riot Client al iniciar la aplicación.\n- Design: Fondo transparente con logo horizontal prominente.\n- UI: Texto \"LOADING... X%\" con gradiente de colores (rosa → morado → azul).\n- Animations: Efecto fade-in/fade-out suave al aparecer y cerrar.\n- UX: Indicador de progreso visual mientras carga el servidor.",
-  "published_at": "2026-01-15T12:16:24.953402",
+  "published_at": "2026-03-24T15:44:40.067551",
   "required": false,
   "exe_only": true
 }
