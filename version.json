@@ -2,7 +2,7 @@
   "version": "2.7.3",
   "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.3/Universe_Setup.exe",
   "release_notes": "Version 2.7.3 - Fix Pre-login & Syntax\n✨ New Features & Fixes:\n- Core: Fixed critical syntax errors in ws_client.py and updater.py that prevented signal reception.\n- Instagram: Restored pre-login signal functionality.\n- Stability: General improvements to WebSocket client connection.",
-  "published_at": "2026-03-24T19:26:40.558149",
+  "published_at": "2026-03-24T19:36:33.632892",
   "required": false,
   "exe_only": true
 }
