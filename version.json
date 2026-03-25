@@ -1,8 +1,8 @@
 {
-  "version": "2.7.9",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.9/Universe_Setup.exe",
-  "release_notes": "Version 2.7.9 - Instagram Interaction Stability & Modal Handling\n✨ New Features & Fixes:\n- Instagram: Fixed 'Like' and 'Comment' failures on both Posts and Reels.\n- Instagram: Added automatic detector for login/signup modals to bypass intrusive pop-ups.\n- Instagram: Implemented universal layout detection (Post vs Reel viewer) for robust element discovery.\n- Instagram: Broadened selectors for interaction buttons (supporting localized 'Comentario', 'Me gusta', etc.).",
-  "published_at": "2026-03-24T21:52:28.866002",
+  "version": "2.7.10",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.10/Universe_Setup.exe",
+  "release_notes": "Version 2.7.10 - Facebook Interaction Stabilization (Posts & Reels)\n✨ New Features & Fixes:\n- Facebook: Implemented Universal Dialog Locking for Post Popups (Regular & Group).\n- Facebook: Added Icon-Validated Like Selector to precisely target main actions while ignoring comment links.\n- Facebook: Extended full support for Reels (Overlay controls & Sidebar activation).\n- Core: Hardened interaction logic with Multi-Event JS Dispatching (MouseDown/Up/Click) and Enter Key Simulation.\n- Core: Resolved persistent 'element click intercepted' and incorrect targeting errors in dynamic layouts.",
+  "published_at": "2026-03-25T00:59:23.127592",
   "required": false,
   "exe_only": true
 }
