@@ -1,8 +1,8 @@
 {
-  "version": "2.7.2",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.2/Universe_Setup.exe",
-  "release_notes": "Version 2.7.2 - Arquitectura de Instalación de Usuario\n✨ New Features & Fixes:\n- Instalador: Migración de la carpeta de instalación de \"Program Files\" a \"AppData/Local\" para soportar Auto-updates sin requerir permisos de Administrador.\n- Core: Resolución total del Error \"WinError 5: Acceso Denegado\" al escribir los logs y bases de datos.\n- UI: Texto \"LOADING... X%\" con gradiente de colores (rosa → morado → azul).\n- Animations: Efecto fade-in/fade-out suave al aparecer y cerrar.\n- UX: Indicador de progreso visual mientras carga el servidor.",
-  "published_at": "2026-03-24T17:17:12.209008",
+  "version": "2.7.12",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.12/Universe_Setup.exe",
+  "release_notes": "Version 2.7.12 - Critical Fixes for WebSocket & Bot Logic\n✨ Fixes & Improvements:\n- Infrastructure: Replaced unreliable Socket.IO client with a robust HTTP bridge for Vercel Server Actions.\n- Websockets: Fixed command delivery issues from the dashboard to devices.\n- Bot Core: Fixed critical NameErrors and malformed try/except blocks in Facebook and Instagram's General Bot tasks.\n- Stability: General improvements in cross-platform command execution.",
+  "published_at": "2026-03-25T11:45:24.987017",
   "required": false,
   "exe_only": true
 }
