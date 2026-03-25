@@ -1,8 +1,8 @@
 {
-  "version": "2.7.5",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.5/Universe_Setup.exe",
-  "release_notes": "Version 2.7.5 - Browser Stability Fix\n✨ New Features & Fixes:\n- Core: Standardized all platform pre-login tasks to use stable chromedriver (uc=False) for improved robustness.\n- Stability: Fixed 'Connection Refused' error during cookie saving on Chrome 146+.\n- Maintenance: Improved error logging in Instagram cookie synchronization.",
-  "published_at": "2026-03-24T20:24:59.796248",
+  "version": "2.7.8",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.8/Universe_Setup.exe",
+  "release_notes": "Version 2.7.8 - Critical Interaction & Multi-Account Fixes\n✨ New Features & Fixes:\n- Core: Fixed 'Unhashable Element' error causing crashes in Facebook Feed.\n- Facebook Reels: Fixed 'Illegal return statement' and improved 'Like/Comment' button detection.\n- Multi-Account: Fixed 'Start Bot' logic to correctly handle all accounts even with open browsers.\n- Instagram: Fixed missing variable and improved launcher stability.",
+  "published_at": "2026-03-24T20:52:36.973362",
   "required": false,
   "exe_only": true
 }
