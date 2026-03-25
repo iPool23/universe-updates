@@ -2,7 +2,7 @@
   "version": "2.7.12",
   "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.12/Universe_Setup.exe",
   "release_notes": "Version 2.7.12 - Critical Fixes for WebSocket & Bot Logic\n✨ Fixes & Improvements:\n- Infrastructure: Replaced unreliable Socket.IO client with a robust HTTP bridge for Vercel Server Actions.\n- Websockets: Fixed command delivery issues from the dashboard to devices.\n- Bot Core: Fixed critical NameErrors and malformed try/except blocks in Facebook and Instagram's General Bot tasks.\n- Stability: General improvements in cross-platform command execution.",
-  "published_at": "2026-03-25T12:05:27.602775",
+  "published_at": "2026-03-25T12:20:40.258463",
   "required": false,
   "exe_only": true
 }
