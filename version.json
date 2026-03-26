@@ -1,8 +1,8 @@
 {
-  "version": "2.7.13",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.13/Universe_Setup.exe",
-  "release_notes": "Version 2.7.13 - Security & Multi-PC Optimization\n✨ New Features & Fixes:\n- Core: Implemented unique hardware-based machine identification (Hostname + MAC suffix).\n- Security: Prevents machine ID collisions between different PCs.\n- WebSocket: Improved device registration and identification.\n- Fixed: Resolved 'Device token bound to another PC' issues for same-network installations.",
-  "published_at": "2026-03-26T10:34:50.275819",
+  "version": "2.7.14",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.14/Universe_Setup.exe",
+  "release_notes": "Version 2.7.14 - Professional Identity & UX Optimization\n✨ New Features & Fixes:\n- Core: Forced professional hardware identification (hostname sync) to prevent generic names (PC-178).\n- Launcher: Optimized startup sequence to ensure the port is ready before opening the browser.\n- Registry: Improved registration payload with dual-field name compatibility.\n- Migration: More aggressive auto-migration for legacy device IDs.",
+  "published_at": "2026-03-26T11:00:28.853002",
   "required": false,
   "exe_only": true
 }
