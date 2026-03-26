@@ -1,8 +1,8 @@
 {
-  "version": "2.7.14",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.14/Universe_Setup.exe",
-  "release_notes": "Version 2.7.14 - Professional Identity & UX Optimization\n✨ New Features & Fixes:\n- Core: Forced professional hardware identification (hostname sync) to prevent generic names (PC-178).\n- Launcher: Optimized startup sequence to ensure the port is ready before opening the browser.\n- Registry: Improved registration payload with dual-field name compatibility.\n- Migration: More aggressive auto-migration for legacy device IDs.",
-  "published_at": "2026-03-26T11:00:28.853002",
+  "version": "2.7.15",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.15/Universe_Setup.exe",
+  "release_notes": "Version 2.7.15 - Testing Professional Identity\n✨ Improvements:\n- Identity: Enhanced professional hostname synchronization (v2).\n- Reliability: Improved hardware-based identification with dual-field mapping.\n- Dashboard: Fixed \"New Device\" naming during approval phase.\n- Build: Fixed Supabase build errors in the central dashboard.",
+  "published_at": "2026-03-26T11:48:23.232515",
   "required": false,
   "exe_only": true
 }
