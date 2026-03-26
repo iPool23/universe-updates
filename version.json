@@ -2,7 +2,7 @@
   "version": "2.7.12",
   "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.12/Universe_Setup.exe",
   "release_notes": "Version 2.7.12 - Feed Interaction Optimization (Fast-Skip)\n✨ New Features & Fixes:\n- Core: Optimized Feed Interaction logic for Facebook and Instagram (Fast-Skip strategy).\n- Core: The bot now automatically skips the feed if no interactable posts are found after 2-3 attempts.\n- UI: Improved real-time feedback and logging for transitions between feed tasks and scheduled actions.\n- Stability: Prevents unnecessary scrolling when the feed is empty or unresponsive.",
-  "published_at": "2026-03-26T09:36:51.763997",
+  "published_at": "2026-03-26T10:17:32.148037",
   "required": false,
   "exe_only": true
 }
