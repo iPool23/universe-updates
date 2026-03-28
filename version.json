@@ -1,8 +1,8 @@
 {
-  "version": "2.7.17",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.17/Universe_Setup.exe",
-  "release_notes": "Version 2.7.15 - Testing Professional Identity\n✨ Improvements:\n- Identity: Enhanced professional hostname synchronization (v2).\n- Reliability: Improved hardware-based identification with dual-field mapping.\n- Dashboard: Fixed \"New Device\" naming during approval phase.\n- Build: Fixed Supabase build errors in the central dashboard.",
-  "published_at": "2026-03-26T12:37:00.161573",
+  "version": "2.7.18",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.18/Universe_Setup.exe",
+  "release_notes": "Version 2.7.18 - Facebook & YouTube Optimization\n✨ Facebook Improvements:\n- Reel Actions: Standardized interaction patterns for Reactions and Comments.\n- Dynamic Flow: Automatic detection and dispatch for Reels, Popups, and Posts.\n- Stability: Active dialog locking to prevent interaction with background elements.\n\n✨ YouTube Maintenance:\n- Cleanup: Removed 880+ inactive/fake accounts globally.\n- Scaling: Replicated 300 successful sessions for 'universe275' (Total system: 417 SUCCESS).\n\n✨ Core Identity:\n- Reliability: Fixed hardware-based identification with dual-field mapping.",
+  "published_at": "2026-03-28T17:00:49.075018",
   "required": false,
   "exe_only": true
 }
