@@ -1,8 +1,8 @@
 {
-  "version": "2.7.26",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.26/Universe_Setup.exe",
-  "release_notes": "Version 2.7.26 - Facebook Stabilization & Organic Warmup\n🛡️ Facebook Stability:\n- Organic Warmup Phase: Added initial feed interaction (scrolling and random likes) to establish session trust.\n- Session Recovery: Added detection for \"Login Banners\" and automatic cookie re-injection to prevent redirects.\n- Enhanced Monitoring: Added continuous session checks before each action block.\n\n📈 Improvements:\n- Improved error logging for better diagnostics of sudden bot stops.\n- Refined navigation logic to handle redirects to login pages or checkpoints.",
-  "published_at": "2026-03-30T08:10:48.579696",
+  "version": "2.7.27",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.27/Universe_Setup.exe",
+  "release_notes": "🚀 UNIVERSE BOT v2.7.27 - Estabilización Crítica de Facebook 🛠️\n\nEsta actualización resuelve fallos mayores de estabilidad en la ejecución de cuentas de Facebook:\n\n✅ SOLUCIONADO: Cierre Global en Modo Paralelo — Se eliminó el comando taskkill que cerraba todos los navegadores cuando una cuenta terminaba o fallaba. Ahora cada cuenta opera de forma independiente.\n✅ MEJORADO: Detección de Comentarios — Implementados selectores robustos 2025 y respaldo por JavaScript para asegurar que el campo de comentarios sea detectado en todos los diseños de Post Popup.\n✅ ESTABLE: Recuperación de Sesión — Nueva lógica de control de errores que evita bucles de login y permite que el bot continúe con el resto de las cuentas si una pierde la sesión permanentemente.\n✅ SYNC: Actualización completa del repositorio de distribución para soporte OTA.\n\n💡 Se recomienda actualizar todas las instancias para asegurar el correcto funcionamiento de las 75 cuentas en paralelo.",
+  "published_at": "2026-03-30T08:37:34.136563",
   "required": false,
   "exe_only": true
 }
