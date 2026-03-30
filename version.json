@@ -1,8 +1,8 @@
 {
-  "version": "2.7.18",
-  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.18/Universe_Setup.exe",
-  "release_notes": "Version 2.7.18 - Facebook & YouTube Optimization\n✨ Facebook Improvements:\n- Reel Actions: Standardized interaction patterns for Reactions and Comments.\n- Dynamic Flow: Automatic detection and dispatch for Reels, Popups, and Posts.\n- Stability: Active dialog locking to prevent interaction with background elements.\n\n✨ YouTube Maintenance:\n- Cleanup: Removed 880+ inactive/fake accounts globally.\n- Scaling: Replicated 300 successful sessions for 'universe275' (Total system: 417 SUCCESS).\n\n✨ Core Identity:\n- Reliability: Fixed hardware-based identification with dual-field mapping.",
-  "published_at": "2026-03-28T17:19:08.391413",
+  "version": "2.7.26",
+  "download_url": "https://github.com/iPool23/universe-updates/releases/download/v2.7.26/Universe_Setup.exe",
+  "release_notes": "Version 2.7.26 - Facebook Stabilization & Organic Warmup\n🛡️ Facebook Stability:\n- Organic Warmup Phase: Added initial feed interaction (scrolling and random likes) to establish session trust.\n- Session Recovery: Added detection for \"Login Banners\" and automatic cookie re-injection to prevent redirects.\n- Enhanced Monitoring: Added continuous session checks before each action block.\n\n📈 Improvements:\n- Improved error logging for better diagnostics of sudden bot stops.\n- Refined navigation logic to handle redirects to login pages or checkpoints.",
+  "published_at": "2026-03-30T08:10:48.579696",
   "required": false,
   "exe_only": true
 }
